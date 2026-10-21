@@ -1,5 +1,3 @@
-# The UK Network of BioImage Analysts
-
 <center><img src="https://github.com/UK-BIAS/UK-BIAS/blob/main/src/assets/logos/UK-BIAS_logo.svg" width="20%"></center>
 
 ## Virtual bioimage analysis service \- open to all
